@@ -1,0 +1,27 @@
+{
+  "name": "node-js-hello",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuttinanDEV/nodejs-hello.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "hello"
+  ],
+  "author": "Wuttinan Chaoyos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuttinanDEV/nodejs-hello/issues"
+  },
+  "homepage": "https://github.com/wuttinanDEV/nodejs-hello#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
